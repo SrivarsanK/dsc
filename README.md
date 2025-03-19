@@ -4,7 +4,7 @@ Predicting house prices has never been easier! This project provides a simple ye
 
 ## Table of Contents 🗺️
 
-1.  [Installation](#installation-️)
+1.  [Installation](#installation-️⚙️)
 2.  [Usage](#usage-🚀)
 3.  [Data Source](#data-source-📊)
 4.  [Model](#model-🧠)
@@ -58,7 +58,7 @@ Click the "Add to codebase" button under the "..." menu at the top right of the 
 
 Here are some badges showcasing the technologies used in this project:
 
-![Python](https://img.shields.io/badge/python-3.6+-blue.svg?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.9--3.12-blue.svg?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
