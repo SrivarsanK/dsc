@@ -11,6 +11,16 @@ Predicting house prices has never been easier! This project provides a simple ye
 5.  [Add to codebase](#add-to-codebase)
 6.  [Badges](#badges-🛡️)
 
+
+1. [Installation](#installation-)
+2. [Usage](#usage-)
+3. [Data Source](#data-source-)
+4. [Model](#model-)
+5. [Add to codebase](#add-to-codebase)
+6. [Badges](#badges-)
+
+These links will now correctly navigate to their respective sections in the document.
+
 ## Installation ⚙️
 
 1.  Make sure you have Python 3.9-3.12 installed.
