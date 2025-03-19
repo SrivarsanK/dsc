@@ -4,7 +4,7 @@ Predicting house prices has never been easier! This project provides a simple ye
 
 ## Table of Contents 🗺️
 
-1.  [Installation](#installation-️⚙️)
+1.  [Installation](#installation-⚙️)
 2.  [Usage](#usage-🚀)
 3.  [Data Source](#data-source-📊)
 4.  [Model](#model-🧠)
