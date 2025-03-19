@@ -17,8 +17,8 @@ Predicting house prices has never been easier! This project provides a simple ye
 2.  Clone this repository:
 
     ```bash
-    git clone https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dsc-main%20%281%29-mZx3gdAdtqzpcwS1f1UW8bP3v40vB8.zip dsc-main
-    cd dsc-main
+    [git clone https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dsc-main%20%281%29-mZx3gdAdtqzpcwS1f1UW8bP3v40vB8.zip dsc-main
+    cd dsc-main](https://github.com/SrivarsanK/dsc.git)
     ```
 
 3.  Install the required Python packages:
